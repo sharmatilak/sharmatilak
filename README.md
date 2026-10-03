@@ -20,7 +20,7 @@ I build things for fun such as browser extensions, bots, desktop tools and turn 
 
 ### 🧩 Software & Tools
 
-- **[Brave History Cleaner](https://github.com/sharmatilak/brave-history-cleaner)** — Manifest V3 extension that auto-deletes history for user-defined domains. Surgical cleanup — cookies, cache & passwords stay untouched. Runs on tab close, every minute & startup.
+- **[Brave History Cleaner](https://github.com/sharmatilak/brave-history-cleaner)** — Manifest V3 extension that auto-deletes history for user-defined domains. Cookies, cache & passwords stay untouched. Runs on tab close, every minute & startup.
 - **[MyInstants Discord Bot](https://github.com/sharmatilak/myinstants-discord-bot)** — Python bot with live MyInstants search via slash command autocomplete. Async, per-user caching, one-command sound sharing.
 - **[VideoCompressor](https://github.com/sharmatilak/VideoCompressor)** — FFmpeg-powered video compressor with both CLI and GUI. Batch processing, progress bar, quality presets.
 
