@@ -2,21 +2,28 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 0 * * *'      # Daily at midnight UTC
+  workflow_dispatch:          # Manual trigger
 
 permissions:
-  contents: write
+  contents: write             # Required for the action to push the GIF
+
+concurrency:
+  group: space-shooter
+  cancel-in-progress: false   # Prevents overlapping runs from racing each other
 
 jobs:
   update-game:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - name: Checkout
+        uses: actions/checkout@v6
         with:
-          fetch-depth: 2  # This is crucial!
+          fetch-depth: 2      # Required for gh-space-shooter's amend logic
+          ref: main           # Explicitly checkout the branch
 
-      - uses: czl9707/gh-space-shooter@v2
+      - name: Generate and commit space shooter
+        uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'sharmatilak-space-shooter.gif'
