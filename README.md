@@ -4,8 +4,6 @@
 
 I build things for fun such as browser extensions, bots, desktop tools and turn raw data into insights with **SQL, Excel, Power BI, and Python**.
 
----
-
 ## 🛠️ Stack
 
 - **Languages:** Python · SQL
@@ -13,8 +11,6 @@ I build things for fun such as browser extensions, bots, desktop tools and turn 
 - **Dev:** discord.py · aiohttp · Tkinter · FFmpeg · Manifest V3
 - **Databases:** PostgreSQL · MySQL · SQLite
 - **Tools:** Git · GitHub · Jupyter · VS Code
-
----
 
 ## 📂 Projects
 
@@ -30,21 +26,8 @@ I build things for fun such as browser extensions, bots, desktop tools and turn 
 - **[Excel Data Jobs Dashboard](https://github.com/sharmatilak/Excel-Project-Data-Analyst-Salary)** — Interactive Excel dashboards with Pivot Tables, Power Query & DAX.
 - **[Power BI Data Jobs Dashboard](https://github.com/sharmatilak/Power_BI_Data_Job_Dashboard)** — 2024 job market dashboards covering salaries, demand & hiring trends.
 
----
-
-## 🌱 Learning
-
-Advanced Python · Pandas · NumPy · Matplotlib · Seaborn
-
----
-
-## 🎯 Goal
-
-Land a Data Analyst role while shipping side projects for the love of building.
-
----
-
 ## 📫 Reach me
 
 [tilak.sharma.ai@gmail.com](mailto:tilak.sharma.ai@gmail.com)
 
+<img align="center" width="100%" src="sharmatilak-space-shooter.gif" />
