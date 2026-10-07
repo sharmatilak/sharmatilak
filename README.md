@@ -46,5 +46,5 @@ Land a Data Analyst role while shipping side projects for the love of building.
 
 ## 📫 Reach me
 
-[tilak.sharma.ai@gmail.com](mailto:tilak.sharma.ai@gmail.com) · [github.com/sharmatilak](https://github.com/sharmatilak)
+[tilak.sharma.ai@gmail.com](mailto:tilak.sharma.ai@gmail.com)
 
