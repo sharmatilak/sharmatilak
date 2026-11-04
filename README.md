@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Tilak :D
 
-**Developer & Aspiring Data Analyst** from India.
-
-I build things for fun such as browser extensions, bots, desktop tools and turn raw data into insights with **SQL, Excel, Power BI, and Python**.
+A Data nerd from India.
 
 ## 🛠️ Stack
 
